@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency "activesupport", ">= 3.1.0"
-  gem.add_dependency "coderay",       "~> 1.0.8"
+  gem.add_dependency "coderay",       "~> 1.1.0"
   gem.add_dependency "kramdown",      "~> 0.14.1"
   gem.add_dependency "nokogiri",      "~> 1.5.6"
 
